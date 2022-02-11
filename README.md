@@ -31,7 +31,7 @@ Apache Airflow를 사용하여 Workflow를 작성하고 스케줄링하며 모�
 ## 프로젝트 결과 
 1. Exam DAG Graph
 
-![result_db_change](images/result_db_change.png)
+![result_graph](images/result_graph.png)
 
 2. Exam DAG tree
 
@@ -39,4 +39,4 @@ Apache Airflow를 사용하여 Workflow를 작성하고 스케줄링하며 모�
 
 3. Airflow DB 변경 결과 (PostgreSQL)
 
-![result_tree](images/result_tree.png)
+![result_db_change](images/result_db_change.png)
