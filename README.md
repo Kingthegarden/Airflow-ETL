@@ -1,4 +1,4 @@
-# Airflow를 활용한 ETL 프로세스 설계
+# Airflow를 활용한 데이터파이프라인 설계
 <hr>
 
 전체적인 진행과정은 노션에서 확인할 수 있습니다: https://onyx-bandicoot-bec.notion.site/MLOps-AIRFLOW-ETL-6ee19fa8779c4d5da2f54a58170dc818 <br>
@@ -16,7 +16,7 @@ Python기반의 Airflow를 활용해 효율적인 ETL 작성 및 관리를 하�
 - Infra : Apache Airflow <br>
 
 ## 수행역할 
-Apache Airflow를 사용하여 Workflow를 작성하고 스케줄링하며 모니터링하는 ETL 설계
+Apache Airflow를 사용하여 Workflow를 작성하고 스케줄링하며 모니터링하는 데이터파이프라인 설계
 - Apache Airflow 이해 & 설치 및 사용환경 구축
 - Airflow DAG 안에 tssk 생성 및 스케줄링
 - Airflow Webserver UI를 활용한 모니터링
