@@ -30,8 +30,8 @@ Apache Airflow를 사용하여 Workflow를 작성하고 스케줄링하며 모�
 ## 프로젝트 결과 
 1. Exam DAG Graph
 
-![serverelss2](images/result_graph.PNG)
+![result_graph](images/result_graph.png)
 
 2. Exam DAG tree
 
-![serverelss2](images/result_tree.PNG)
+![result_tree](images/result_tree.png)
