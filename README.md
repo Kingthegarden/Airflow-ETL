@@ -8,7 +8,7 @@ Python기반의 Airflow를 활용해 효율적인 ETL 작성 및 관리를 하�
 데이터 파이프라인 하나의 단위인 DAG를 통해 task를 구현하는 side project
 
 ## 프로젝트 기간 
-2022.02.09 ~ 진행중
+2022.02.09 ~ 02.16
 
 ## 사용기술
 - Language : Python 3.7 <br>
