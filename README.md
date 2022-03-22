@@ -18,7 +18,7 @@ Python기반의 Airflow를 활용해 효율적인 ETL 작성 및 관리를 하�
 ## 수행역할 
 Apache Airflow를 사용하여 Workflow를 작성하고 스케줄링하며 모니터링하는 데이터파이프라인 설계
 - Apache Airflow 이해 & 설치 및 사용환경 구축
-- Airflow DAG 안에 tssk 생성 및 스케줄링
+- Airflow DAG 안에 task 생성 및 스케줄링
 - Airflow Webserver UI를 활용한 모니터링
 - SequentialExecutor 사용을 위한 Airflow DB 변경 : Sqlite -> PostgreSQL
 
